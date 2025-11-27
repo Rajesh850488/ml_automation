@@ -1,5 +1,6 @@
 streamlit
 pandas
-numpy
-scikit-learn
-joblib
+plotly
+matplotlib
+seaborn
+openpyxl  # if using Excel upload
